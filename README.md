@@ -1,5 +1,11 @@
-### Hi！There
-I'm Redish101.
+### Hi！
+你好!
 
-![](https://github-readme-stats.vercel.app/api?username=Redish101&show_icons=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api?username=Redish101&count_private=true)
+
+我是，
+**Redish101**。
+
+博客: https://blog.redish101.top
+E-mail: i@redish101.top
+
+我讨厌自我介绍，不知道写什么，什么也不想写！！！！！！！！
