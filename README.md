@@ -1,7 +1,6 @@
 ### Hi！
 你好!
 
-
 我是，
 **Redish101**。
 
@@ -10,6 +9,12 @@
 博客: https://blog.redish101.top
 
 E-mail: i@redish101.top
+
+### 📊 GitHub Stats
+
+![Redish101's GitHub stats](https://github-readme-stats.vercel.app/api?username=Redish101&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Redish101&layout=compact)
 
 ### Tech Stack
 
@@ -22,7 +27,7 @@ E-mail: i@redish101.top
 #### 🧾 Markup Languages:
 ![](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![](https://img.shields.io/badge/XML-005FAD?style=flat-square&logo=xml&logoColor=white) ![](https://img.shields.io/badge/JSON-black?style=flat-square&logo=json&logoColor=white) ![](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white) ![](https://img.shields.io/badge/TOML-9C4121?style=flat-square&logo=toml&logoColor=white) ![](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 
-#### 🧩 Frameworks / Build Tools:
+#### 🧩 Frameworks:
 ![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white) ![](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white) ![](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white) ![](https://img.shields.io/badge/Esbuild-FFCF00?style=flat-square&logo=esbuild&logoColor=black) ![](https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white) ![](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white) ![](https://img.shields.io/badge/Echo-00ADD8?style=flat-square&logo=go&logoColor=white) ![](https://img.shields.io/badge/Fiber-00ADD8?style=flat-square&logo=go&logoColor=white) ![](https://img.shields.io/badge/Hexo-0E83CD?style=flat-square&logo=Hexo&logoColor=white)
 
 #### ☸️ DevOps / Platform:
