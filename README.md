@@ -1,4 +1,4 @@
-<img width="1280" height="500" alt="hi" src="https://github.com/user-attachments/assets/f5640ab4-e71c-4569-807d-2c3e78481a7d" />
+<img width="1280" height="500" alt="hi" src="https://github.com/user-attachments/assets/60bb0e61-ac35-423f-8543-d11874365330" />
 
 ### Hi！
 你好!
